@@ -1,0 +1,57 @@
+<cars>
+    <car>
+        <carName>bmw</carName>
+        <carType>sedan</carType>
+        <id>19823</id>
+        <year>1995</year>
+        <engines>
+            <engine>
+                <value>1</value>
+                <maxValue>3</maxValue>
+            </engine>
+        </engines>
+        <repairs>
+            <repairType>engine</repairType>
+            <cost>1000</cost>
+        </repairs>
+    </car>
+
+    <car>
+        <carName>audi</carName>
+        <cartype>Coupe</cartype>
+        <id>456873</id>
+        <year>1999</year>
+        <engines>
+            <engine>
+                <value>1</value>
+                <maxValue>3</maxValue>
+            </engine>
+        </engines>
+        <repairs>
+            <repairType>engine</repairType>
+            <cost>1000</cost>
+        </repairs>
+        <repairs>
+            <repairType>suspension</repairType>
+            <cost>300</cost>
+        </repairs>
+    </car>
+
+    <car>
+        <carName>opel</carName>
+        <cartype>Hatchback</cartype>
+        <id>871358</id>
+        <year>2001</year>
+        <engines>
+            <engine>
+                <value>1</value>
+                <maxValue>3</maxValue>
+            </engine>
+        </engines>
+        <repairs>
+            <repairType>suspension</repairType>
+            <cost>300</cost>
+        </repairs>
+    </car>
+
+</cars>
